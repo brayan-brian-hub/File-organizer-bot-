@@ -1,0 +1,5 @@
+-Python
+
+-Watchdog library
+
+-OS and file management
