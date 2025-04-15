@@ -1,0 +1,4 @@
+## 📦 Requirements
+
+```bash
+pip install watchdog
