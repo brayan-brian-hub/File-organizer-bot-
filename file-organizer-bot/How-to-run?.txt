@@ -1,0 +1,9 @@
+1- Clone this repo 😊:
+  git clone https://github.com/brayan-brian-hub/file-organizer-bot.git
+  cd file-organizer-bot
+  
+2- Install dependencies 😳:
+  pip install -r requirements.txt
+  
+3- Run the script 👏🏼:
+  python organizer.py
